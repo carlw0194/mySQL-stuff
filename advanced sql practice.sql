@@ -1,4 +1,5 @@
 use employees;
+# learn some advanced querry techniques
 # find employees with  salaries greater than the average salary.
 # can one employee have more than one salary?
 /* using subqueries when working with one table
